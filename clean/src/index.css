@@ -1,0 +1,7 @@
+body {
+  background-color: black;
+}
+:global(.ant-btn-primary:active) {
+  background-color: red !important;
+  border-color: red !important;
+}
